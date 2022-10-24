@@ -1,7 +1,7 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just Enother Text Editor",
   "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server",
