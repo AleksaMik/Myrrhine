@@ -1,8 +1,11 @@
 {
   "name": "jate",
   "version": "1.0.0",
-  "description": "Just Enother Text Editor",
+  "description": "Just Another Text Editor",
   "main": "server.js",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "dev": "webpack-dev-server",
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
