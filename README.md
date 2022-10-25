@@ -29,7 +29,7 @@ The application is a web text editor where the user can create notes or code sni
          * npm install babel (Babel)
          * npm install --save-dev css-loader (CSS-loader)
          * npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-         * npm npm install idb (IndexedDB)
+         * npm install idb (IndexedDB)
 
 ## Deplyments 
 - Application deployed to Heroku at live URL with build scripts
