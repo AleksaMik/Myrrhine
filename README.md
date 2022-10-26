@@ -59,7 +59,7 @@ Can be installed as a Progressive Web Application
 
 [URL of the GitHub repository](https://github.com/AleksaMik/Myrrhine)
 
-[demo-video](https://drive.google.com/file/d/1_dQ7DOtfShJWYLaZzbcF_CRUfAMSqnxj/view)
+[Demo-video](https://drive.google.com/file/d/1_dQ7DOtfShJWYLaZzbcF_CRUfAMSqnxj/view)
 
  [Heroku URL of the deployed application]()
  
