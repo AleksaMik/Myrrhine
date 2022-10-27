@@ -61,5 +61,5 @@ Can be installed as a Progressive Web Application
 
 [Demo-video](https://drive.google.com/file/d/1_dQ7DOtfShJWYLaZzbcF_CRUfAMSqnxj/view)
 
- [Heroku URL of the deployed application]()
+ [Heroku URL of the deployed application](https://sheltered-meadow-95978.herokuapp.com)
  
